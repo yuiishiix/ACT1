@@ -3,7 +3,7 @@ import random
 ranks = [
     "Iron 1", "Iron 2", "Iron 3",
     "Bronze 1", "Bronze 2", "Bronze 3",
-    "Silver 1", "Silver 2", "Silver 3"
+    "Silver 1", "Silver 2", "Silver 3",  # Added missing comma
     "Gold 1", "Gold 2", "Gold 3",  # Gold ranks
     "Platinum 1", "Platinum 2", "Platinum 3",  # Platinum ranks
     "Diamond 1", "Diamond 2", "Diamond 3",  # Diamond ranks
